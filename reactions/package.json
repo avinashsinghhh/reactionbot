@@ -1,0 +1,13 @@
+{
+  "name": "chess-reaction-bot",
+  "version": "1.0.0",
+  "description": "Private Discord bot that reacts to every message with chess review icons",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "dotenv": "^16.4.5"
+  }
+}
